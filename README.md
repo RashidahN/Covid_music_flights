@@ -1,6 +1,8 @@
 # Covid_music_flights
 
-This project uses Python Flask to visualize Spotify Streams Vs Flight Passenger Count.
+This project visualizes Spotify Streams count for Genres Vs Flight Passenger Count during Covid years.
+
+Chart.js is used to display the data on each page. Python Flask is used to show each page and it's graph.
 
 To run:
 `cd flaskapp/application`
