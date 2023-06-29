@@ -1,0 +1,30 @@
+[
+  {
+    "Genre": "Pop",
+    "Streams": 30643580194
+  },
+  {
+    "Genre": "R&B",
+    "Streams": 6195623777
+  },
+  {
+    "Genre": "Rap",
+    "Streams": 19492611522
+  },
+  {
+    "Genre": "Rock",
+    "Streams": 5079339112
+  },
+  {
+    "Genre": "Hip-Hop",
+    "Streams": 10252738361
+  },
+  {
+    "Genre": "Rege",
+    "Streams": 13940843820
+  },
+  {
+    "Genre": "Other",
+    "Streams": 4013796858
+  }
+]
