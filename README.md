@@ -11,6 +11,8 @@ We used python and plotly to design the dashboard and interact with the informat
 
 Chart.js is used to display the data on each page. Python Flask is used to show each page and it's graph.(This is our attempt.)
 
+# Database
+We were able to create a database to store our data. Since we didnt use our flask, I was not able to capitalize on using the database for our presentation. However I was able to import the data from csv into pgAdmin.
 To run:
 `cd flaskapp/application`
 `npm install`
