@@ -9,7 +9,7 @@ We attempted to use chart js as the js not taught in class but again, we had tro
 For our interactive dashboard, we built it from the program/module called streamlit. You are required to install streamlit to run the app.py to see the dashboard.
 We used python and plotly to design the dashboard and interact with the information.
 
-Chart.js is used to display the data on each page. Python Flask is used to show each page and it's graph.
+Chart.js is used to display the data on each page. Python Flask is used to show each page and it's graph.(This is our attempt.)
 
 To run:
 `cd flaskapp/application`
